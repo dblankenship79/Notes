@@ -1,0 +1,16 @@
+
+- [Randall Degges](https://www.rdegges.com)
+  - [Please Stop Using Local Storage](https://www.rdegges.com/2018/please-stop-using-local-storage/)
+- [Robin Wieruch](https://www.robinwieruch.de)
+- [Scott Hanselman](https://www.hanselman.com)
+  - [Converting an Excel Worksheet into a JSON document with C# and .NET Core and ExcelDataReader](https://www.hanselman.com/blog/ConvertingAnExcelWorksheetIntoAJSONDocumentWithCAndNETCoreAndExcelDataReader.aspx)
+  - [Clever little C# and ASP.NET Core features that make me happy](https://www.hanselman.com/blog/CleverLittleCAndASPNETCoreFeaturesThatMakeMeHappy.aspx)
+  - [You can now download the new Open Source Windows Terminal](https://www.hanselman.com/blog/YouCanNowDownloadTheNewOpenSourceWindowsTerminal.aspx)
+  - [Terminus and FluentTerminal are the start of a world of 3rd party OSS console replacements for Windows](https://www.hanselman.com/blog/TerminusAndFluentTerminalAreTheStartOfAWorldOf3rdPartyOSSConsoleReplacementsForWindows.aspx)
+  - [Useful ASP.NET Core 2.2 Features](https://www.hanselman.com/blog/UsefulASPNETCore22Features.aspx)
+  - [Eyes wide open - Correct Caching is always hard](https://www.hanselman.com/blog/EyesWideOpenCorrectCachingIsAlwaysHard.aspx)
+- [Little Blah](https://littleblah.com)
+  - [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+  - []()
+  - []()
+

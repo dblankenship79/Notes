@@ -1,1 +1,26 @@
 # MyNotes
+
+- [AspNet Core](/Categories/ASP.Net_Core/ASP_Net_Core.md)
+- [Authorization](/Categories/Authorization/Auth.md)
+- [Azure DevOps](/Categories/Azure_DevOps/Devops.md)
+- [Blogs](/Categories/Blogs/blogs.md)
+- [Data Driven Documents](/Categories/Data_Driven_Documents/d3.md)
+- [Domain Modeling](/Categories/Domain_Modeling/Domain_Modeling.md)
+- [Dynamic Programming](/Categories/Dynamic_Programming/Dynamic_Programming.md)
+- [Emmet](/Categories/Emmet/Emmet.md)
+- [Expression Engine](/Categories/Expression_Engine/Expression_Engine.md)
+- [GitHubs](/Categories/GitHubs/Githubs.md)
+- [GraphQL](/Categories/GraphQL/GraphQL.md)
+- [JavaScript](/Categories/JavaScript/JavaScript.md)
+- [Multi Tenant](/Categories/MultiTenant/MultiTenant.md)
+- [Notifications](/Categories/Notifications/Notifications.md)
+- [Patterns](/Categories/Patterns/Patterns.md)
+- [RabbitMQ](/Categories/RabbitMQ/RabbitMQ.md)
+- [React](/Categories/React/React.md)
+- [Rules](/Categories/Rules/Drools.md)
+- [SQL](/Categories/SQL/sql.md)
+- [WebPack](/Categories/Webpack/Webpack.md)
+
+## External
+- [Real World](https://github.com/gothinkster/realworld)
+- [How I Developed a Real-Time Web App Using Server-Sent Events](https://medium.com/better-programming/how-i-developed-a-real-time-web-app-using-server-sent-events-488cc280c2e1)

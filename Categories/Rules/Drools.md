@@ -1,0 +1,3 @@
+- [Drools](https://www.drools.org/)
+- [Drools Documentation](https://www.drools.org/learn/documentation.html)
+- [Drools Onboarding](https://nheron.gitbooks.io/droolsonboarding/content/gettingStarted/design.html)

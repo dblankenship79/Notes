@@ -1,0 +1,2 @@
+- [Building a rule engine in C#](https://netmatze.wordpress.com/2012/01/22/building-a-rule-engine-in-c/)
+- [Framework Types Supporting Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/expression-classes)

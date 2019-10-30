@@ -1,0 +1,5 @@
+- [Create Nonclustered Indexes](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/create-nonclustered-indexes?view=sql-server-2017)
+- [Finding a better candidate for your SQL Server clustered indexes](https://www.mssqltips.com/sqlservertip/1642/finding-a-better-candidate-for-your-sql-server-clustered-indexes/)
+- [How to get index usage information in SQL Server](https://www.mssqltips.com/sqlservertip/1239/how-to-get-index-usage-information-in-sql-server/)
+- [SQL Server Indexing Tips](https://www.mssqltips.com/sql-server-tip-category/38/indexing/)
+- [Understanding SQL Server Indexing](https://www.mssqltips.com/sqlservertip/1206/understanding-sql-server-indexing/)

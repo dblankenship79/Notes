@@ -1,0 +1,1 @@
+- [Making a Case for Domain Modeling](https://hackernoon.com/making-a-case-for-domain-modeling-17cf47030732)
