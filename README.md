@@ -1,9 +1,9 @@
 # MyNotes
 
-- [AspNet Core](/Categories/ASPNET_Core/ASP_Net_Core.md)
+- [AspNet Core](/Categories/ASPNETCore/ASP_Net_Core.md)
 - [Authorization](/Categories/Authorization/Auth.md)
-- [Azure DevOps](/Categories/Azure_DevOps/Devops.md)
-- [Blogs](/Categories/Blogs/blogs.md)
+- [Azure DevOps](/Categories/Azure_DevOps/DevOps.md)
+- [Blogs](/Categories/Blogs/Blogs.md)
 - [Data Driven Documents](/Categories/Data_Driven_Documents/d3.md)
 - [Domain Modeling](/Categories/Domain_Modeling/Domain_Modeling.md)
 - [Dynamic Programming](/Categories/Dynamic_Programming/Dynamic_Programming.md)
@@ -18,7 +18,7 @@
 - [RabbitMQ](/Categories/RabbitMQ/RabbitMQ.md)
 - [React](/Categories/React/React.md)
 - [Rules](/Categories/Rules/Drools.md)
-- [SQL](/Categories/SQL/sql.md)
+- [SQL](/Categories/SQL/SQL.md)
 - [WebPack](/Categories/Webpack/Webpack.md)
 
 ## External
