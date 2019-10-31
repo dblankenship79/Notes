@@ -1,6 +1,6 @@
 # MyNotes
 
-- [AspNet Core](/Categories/ASPNet_Core/ASP_Net_Core.md)
+- [AspNet Core](/Categories/ASPNET_Core/ASP_Net_Core.md)
 - [Authorization](/Categories/Authorization/Auth.md)
 - [Azure DevOps](/Categories/Azure_DevOps/Devops.md)
 - [Blogs](/Categories/Blogs/blogs.md)
