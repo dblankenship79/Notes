@@ -1,1 +1,0 @@
-- [Integrate your on-premise ticket system with Visual Studio Team Services (fka VS Online)](https://roadtoalm.com/2015/11/12/integrate-your-on-premise-ticket-system-with-visual-studio-online/)
