@@ -1,4 +1,0 @@
-- [A Little Bit of History: An overview of the history package used by React Router](https://blog.pshrmn.com/entry/a-little-bit-of-history/)
-- [A Simple React Router v4 Tutorial](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
-- [Beginner's Guide to React Router](https://medium.freecodecamp.org/beginner-s-guide-to-react-router-53094349669)
-- [React-Router Docs](https://reacttraining.com/react-router/web/guides/quick-start)
